@@ -11,4 +11,4 @@
 - Sources: [KAGGLE Aviation Accident Database](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
 - Description: Database of aviation accidents from 1962 - 2022 containing various information on each incident
 - Visual:
-![Yearly Graph](.data/yearly_accident)
+![Yearly Graph](./project_1/data/yearly_accident.png)
