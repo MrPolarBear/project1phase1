@@ -14,3 +14,9 @@
 ![Yearly Graph](./project_1/data/yearly_accident.png)
 ![Commercial Airline Graph](./project_1/data/graph_commercial.JPG)
 ![Sightseeing Airline Graph](./project_1/data/graph_sightseeing.JPG)
+
+## CONCLUSIONS
+- Recommendations for commercial: Boeing 737-800, Airbus A321, Boeing 787
+- Recommendations for sightseeing: Diamond DA 20 C1, Cessna 180H, Cessna 180J, and Piper PA 22
+
+
