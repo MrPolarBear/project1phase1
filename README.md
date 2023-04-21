@@ -27,8 +27,8 @@
 - Recommendations for sightseeing: Diamond DA 20 C1, Cessna 180H, Cessna 180J, and Piper PA 22
 
 ## INTERACTIVE DASHBOARD LINK
-[Commercial Dashboard](https://public.tableau.com/app/profile/samuel.song5286/viz/phase1_project_sheet_1/Sheet1?publish=yes)
-[Sightseeing Dashboard](https://public.tableau.com/app/profile/samuel.song5286/viz/phase1_project_sheet_2/Sheet2?publish=yes)
+ [Commercial Dashboard](https://public.tableau.com/app/profile/samuel.song5286/viz/phase1_project_sheet_1/Sheet1?publish=yes)
+ [Sightseeing Dashboard](https://public.tableau.com/app/profile/samuel.song5286/viz/phase1_project_sheet_2/Sheet2?publish=yes)
 
 
 
