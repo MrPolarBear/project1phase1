@@ -12,3 +12,5 @@
 - Description: Database of aviation accidents from 1962 - 2022 containing various information on each incident
 - Visual:
 ![Yearly Graph](./project_1/data/yearly_accident.png)
+![Commercial Airline Graph](./project_1/data/graph_commercial.JPG)
+![Sightseeing Airline Graph](./project_1/data/graph_sightseeing.JPG)
